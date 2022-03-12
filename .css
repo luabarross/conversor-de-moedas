@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-image: url("https://st2.depositphotos.com/1239637/12396/i/950/depositphotos_123966232-stock-photo-dollar-and-euro-mixed-with.jpg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+  height: 100vh;
+  background-color: rgba(119, 136, 153, 0.7);
+  margin: auto;
+  width: 900px;
+}
+
+.page-title {
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 5px;
+  padding: 15px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+div .converçao {
+  display: inline-block;
+  margin: 10px;
+  padding: 15px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #ffffff;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 15px;
+}
